@@ -17,11 +17,11 @@ This project focuses on the implementation of a Semantic Segmentation model base
 - **Model Evaluation:** Assessed the performance of the model on the test set, achieving a remarkable Mean Intersection over Union (MIoU) of 0.91 and an accuracy of 0.96.
 
 
-**Note:** This notebook is designed to be run in Google Colab. Click the "Open in Colab" badge above to open the notebook in Colab.
+**Note:** This notebook is designed to be run in Google Colab.
 
 ## Data Source
 
-The dataset used in this project can be found on Kaggle: [Supervisely Filtered Segmentation Person Dataset](https://www.kaggle.com/datasets/tapakah68/supervisely-filtered-segmentation-person-dataset/download?datasetVersionNumber=3)
+The dataset used in this project can be found on Kaggle: [Supervisely Filtered Segmentation Person Dataset](https://www.kaggle.com/datasets/tapakah68/supervisely-filtered-segmentation-person-dataset/download?datasetVersionNumber=3).
 
 ## Technologies Used
 
